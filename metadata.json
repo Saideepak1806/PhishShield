@@ -1,0 +1,6 @@
+{
+  "name": "PhishShield",
+  "description": "Phishing URL Detection and Website Validation System Using Finite Automata",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
